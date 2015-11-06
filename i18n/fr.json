@@ -3,7 +3,7 @@
   "locales": ["fr"],
   "messages": {
     "nav": {
-      "app": "Desktop app coming soon",
+      "app": "Download Kakapo for iOS / Android, Desktop & Chrome!",
       "home": "Accueil",
       "downloads": "Téléchargements",
       "settings": "Paramètres"
@@ -12,10 +12,6 @@
       "header": "Paramètres",
       "theme": "Couleurs du thème",
       "lang": "Langue"
-    },
-    "download": {
-      "header": "Desktop app coming soon",
-      "subheader": "Will be available for Mac, Windows & Linux"
     },
     "youtube": {
       "views": "vues"
@@ -38,7 +34,6 @@
       },
       "options": {
         "header": "Add a sound",
-        "dragndrop": "You can drag and drop audio files into Kakapo from your computer.",
         "kakapo": "Kakapo favourites",
         "youtube": "YouTube",
         "soundcloud": "SoundCloud",

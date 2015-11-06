@@ -1,0 +1,19 @@
+{
+  "name": "kakapo-assets",
+  "version": "3.0.0",
+  "description": "Assets for Kakapo apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Levitt",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluedaniel/kakapo-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluedaniel/kakapo-assets/issues"
+  },
+  "homepage": "https://github.com/bluedaniel/kakapo-assets#readme"
+}
