@@ -1,6 +1,18 @@
 [
   {
     "source": "file",
+    "name": "Bonfire",
+    "file": "bonfire",
+    "tags": "fire, outdoors, camping, cosy",
+    "volume": 0.5,
+    "playing": false,
+    "editing": false,
+    "progress": 1,
+    "img": "bonfire",
+    "recentlyDownloaded": false
+  },
+  {
+    "source": "file",
     "name": "Rain",
     "file": "rain",
     "tags": "weather, water, outdoors",
