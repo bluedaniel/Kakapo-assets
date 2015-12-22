@@ -1,6 +1,18 @@
 [
   {
     "source": "file",
+    "name": "Birds",
+    "file": "birds",
+    "tags": "animals, forest, outdoors, happy",
+    "volume": 0.5,
+    "playing": false,
+    "editing": false,
+    "progress": 1,
+    "img": "birds",
+    "recentlyDownloaded": false
+  },
+  {
+    "source": "file",
     "name": "Bonfire",
     "file": "bonfire",
     "tags": "fire, outdoors, camping, cosy",
