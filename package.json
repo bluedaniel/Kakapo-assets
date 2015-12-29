@@ -4,7 +4,9 @@
   "description": "Assets for Kakapo apps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cache-clean": "rm -rf sounds",
+    "postinstall": "node install.js"
   },
   "author": "Daniel Levitt",
   "license": "ISC",
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/bluedaniel/kakapo-assets/issues"
   },
-  "homepage": "https://github.com/bluedaniel/kakapo-assets#readme"
+  "homepage": "https://github.com/bluedaniel/kakapo-assets#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "nugget": "^1.6.0",
+    "unzip": "^0.1.11"
+  }
 }
