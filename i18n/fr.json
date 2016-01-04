@@ -4,17 +4,18 @@
   "messages": {
     "nav": {
       "app": "Download Kakapo for iOS / Android, Desktop & Chrome!",
-      "home": "Accueil",
-      "downloads": "Téléchargements",
-      "settings": "Paramètres"
+      "home": "Home",
+      "downloads": "Downloads",
+      "settings": "Settings",
+      "playlist": "Playlists"
     },
     "settings": {
-      "header": "Paramètres",
-      "theme": "Couleurs du thème",
-      "lang": "Langue"
+      "header": "Settings",
+      "theme": "Theme colors",
+      "lang": "Language"
     },
     "youtube": {
-      "views": "vues"
+      "views": "views"
     },
     "soundcloud": {
       "plays": "plays"
@@ -65,6 +66,7 @@
     "playlist": {
       "header": "Playlists",
       "subheading": "You can choose some playlists from the selection below:",
+      "share": "Share my current playlist",
       "list_relax": "Relax",
       "list_reset": "Reset to default sounds",
       "list_productivity": "Productivity",
