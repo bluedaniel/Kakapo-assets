@@ -1,20 +1,28 @@
 {
   "camping": {
     "kakapo": [{
-      "title": "Stream",
-      "id": "stream",
+      "file": "stream",
+      "img": "water",
+      "name": "Stream",
+      "source": "file",
       "volume": 0.2
     }, {
-      "title": "Wind",
-      "id": "wind",
+      "file": "wind",
+      "img": "wind",
+      "name": "Wind",
+      "source": "file",
       "volume": 0.4
     }, {
-      "title": "Bondfire",
-      "id": "bonfire",
+      "file": "bonfire",
+      "img": "bonfire",
+      "name": "Bonfire",
+      "source": "file",
       "volume": 0.6
     }, {
-      "title": "Leaves",
-      "id": "leaves",
+      "file": "leaves",
+      "img": "leaves",
+      "name": "Leaves",
+      "source": "file",
       "volume": 0.5
     }]
   }
