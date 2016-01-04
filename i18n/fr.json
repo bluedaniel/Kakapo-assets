@@ -62,6 +62,16 @@
     "modal": {
       "close": "Close"
     },
+    "playlist": {
+      "header": "Playlists",
+      "subheading": "You can choose some playlists from the selection below:",
+      "list_relax": "Relax",
+      "list_reset": "Reset to default sounds",
+      "list_productivity": "Productivity",
+      "list_travel": "Travel",
+      "list_camping": "Camping",
+      "list_studying": "Studying"
+    },
     "sounds": {
       "rain": "Rain",
       "paris_cafe": "Paris Cafe",

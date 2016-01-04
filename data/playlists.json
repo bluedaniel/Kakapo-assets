@@ -1,0 +1,21 @@
+{
+  "camping": {
+    "kakapo": [{
+      "title": "Stream",
+      "id": "stream",
+      "volume": 0.2
+    }, {
+      "title": "Wind",
+      "id": "wind",
+      "volume": 0.4
+    }, {
+      "title": "Bondfire",
+      "id": "bonfire",
+      "volume": 0.6
+    }, {
+      "title": "Leaves",
+      "id": "leaves",
+      "volume": 0.5
+    }]
+  }
+}
