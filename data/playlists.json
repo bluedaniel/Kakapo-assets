@@ -1,29 +1,3 @@
 {
-  "camping": {
-    "kakapo": [{
-      "file": "stream",
-      "img": "water",
-      "name": "Stream",
-      "source": "file",
-      "volume": 0.2
-    }, {
-      "file": "wind",
-      "img": "wind",
-      "name": "Wind",
-      "source": "file",
-      "volume": 0.4
-    }, {
-      "file": "bonfire",
-      "img": "bonfire",
-      "name": "Bonfire",
-      "source": "file",
-      "volume": 0.6
-    }, {
-      "file": "leaves",
-      "img": "leaves",
-      "name": "Leaves",
-      "source": "file",
-      "volume": 0.5
-    }]
-  }
+  "camping": "EyhICROPl"
 }

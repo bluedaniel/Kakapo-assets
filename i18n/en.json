@@ -65,8 +65,9 @@
     },
     "playlist": {
       "header": "Playlists",
-      "subheading": "You can choose some playlists from the selection below:",
+      "subheading": "You can also choose some playlists from the selection below:",
       "share": "Share my current playlist",
+      "share_created": "Copy and share the link for your playlist below",
       "list_relax": "Relax",
       "list_reset": "Reset to default sounds",
       "list_productivity": "Productivity",
