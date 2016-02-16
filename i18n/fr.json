@@ -68,6 +68,7 @@
       "subheading": "You can also choose some playlists from the selection below:",
       "share": "Share my current playlist",
       "share_created": "Copy and share the link for your playlist below",
+      "input_playlist": "Enter a playlist ID below if you have one",
       "list_relax": "Relax",
       "list_reset": "Reset to default sounds",
       "list_productivity": "Productivity",
@@ -76,6 +77,8 @@
       "list_studying": "Studying"
     },
     "sounds": {
+      "birds": "Birds",
+      "bonfire": "Bonfire",
       "rain": "Rain",
       "paris_cafe": "Paris Cafe",
       "cat_purring": "Cat Purring",
