@@ -1,6 +1,6 @@
 {
   "name": "kakapo-assets",
-  "version": "5.15.0",
+  "version": "5.16.0",
   "description": "Assets for Kakapo apps",
   "main": "index.js",
   "scripts": {
