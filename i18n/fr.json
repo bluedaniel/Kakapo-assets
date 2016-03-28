@@ -69,12 +69,13 @@
       "share": "Share my current playlist",
       "share_created": "Copy and share the link for your playlist below",
       "input_playlist": "Enter a playlist ID below if you have one",
-      "list_relax": "Relax",
       "list_reset": "Reset to default sounds",
-      "list_productivity": "Productivity",
-      "list_travel": "Travel",
       "list_camping": "Camping",
-      "list_studying": "Studying"
+      "list_stormy": "Stormy",
+      "list_cosy": "Cosy",
+      "list_night-highway": "Nightime highway",
+      "list_white-noise": "White noise",
+      "list_refuge-in-paris-cafe": "Refuge in Paris cafe"
     },
     "sounds": {
       "birds": "Birds",
